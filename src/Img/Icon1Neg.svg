@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Group_9" data-name="Group 9" transform="translate(-1453 -3271)">
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1453 3271)" fill="#404b5d" stroke="#f9b124" stroke-width="4">
+      <circle cx="60" cy="60" r="60" stroke="none"/>
+      <circle cx="60" cy="60" r="58" fill="none"/>
+    </g>
+    <g id="Icon_feather-mail" data-name="Icon feather-mail" transform="translate(1490 3309)">
+      <path id="Path_1" data-name="Path 1" d="M7,6H39a4.012,4.012,0,0,1,4,4V34a4.012,4.012,0,0,1-4,4H7a4.012,4.012,0,0,1-4-4V10A4.012,4.012,0,0,1,7,6Z" fill="none" stroke="#e4e4e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_2" data-name="Path 2" d="M43,9,23,23,3,9" transform="translate(0 1)" fill="none" stroke="#e4e4e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

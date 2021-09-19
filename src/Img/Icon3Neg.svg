@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Group_7" data-name="Group 7" transform="translate(-1155 -3271)">
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(1155 3271)" fill="#404b5d" stroke="#f9b124" stroke-width="4">
+      <circle cx="60" cy="60" r="60" stroke="none"/>
+      <circle cx="60" cy="60" r="58" fill="none"/>
+    </g>
+    <path id="Icon_awesome-facebook-messenger" data-name="Icon awesome-facebook-messenger" d="M23.215.563C10.453.563.563,9.889.563,22.487A21.428,21.428,0,0,0,7.678,38.7c.761.684.6,1.081.734,5.307a1.815,1.815,0,0,0,2.541,1.6c4.822-2.123,4.884-2.291,5.7-2.069,13.97,3.845,29.113-5.1,29.113-21.056C45.766,9.889,35.977.563,23.215.563Zm13.6,16.872L30.163,27.967a3.406,3.406,0,0,1-4.913.9l-5.293-3.962a1.367,1.367,0,0,0-1.64,0l-7.142,5.417A1.074,1.074,0,0,1,9.614,28.9l6.653-10.533a3.4,3.4,0,0,1,4.913-.9l5.291,3.961a1.367,1.367,0,0,0,1.64,0l7.146-5.412A1.072,1.072,0,0,1,36.816,17.435Z" transform="translate(1191.835 3307.837)" fill="#fff"/>
+  </g>
+</svg>
